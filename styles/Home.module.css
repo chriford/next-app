@@ -73,6 +73,12 @@
   max-width: 800px;
 }
 
+.design {
+  margin: 1em;
+  font-size: medium;
+  text-shadow: 2px;
+}
+
 .card {
   margin: 1rem;
   padding: 1.5rem;
